@@ -1,11 +1,16 @@
-# It-is-Amelia
+## Hello World 👋 It's Amelia!!!
 
-## Hello World 👋 It's Amelia, Nice to meet you!!!!
+Nice to meet you!!!! Welcome to My GitHubPage 🚀
 
-### Welcome to My GitHubPage 🚀
-Because who needs sleep when you have bugs to fix, problems to solve, papers to write, things to study and features to add?
+## Talking about Personal Stuff:
 
+- 🔭 I’m currently Doctorate student in Engeneering Process at Federal University of Rio de Janeiro
+- 🌱 I’m currently learning what I can 🙌.
+- 👯 Part of Developer Community.
+  
 <br/>
+
+Because who needs sleep when you have bugs to fix, problems to solve, papers to write, things to study and features to add?
 
 <div align="center">
 <img src="https://media.giphy.com/media/7hJZcKzjIufeOmqKSj/giphy.gif" width="230" height="200" alt="GIF">
@@ -13,13 +18,14 @@ Because who needs sleep when you have bugs to fix, problems to solve, papers to 
 
 <br/>
 
-Talking about Personal Stuff:
+## Tools and Technologies
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-- 🔭 I’m currently Doctorate student in Engeneering Process at Federal University of Rio de Janeiro
-- 🌱 I’m currently learning what I can 🙌.
-- 👯 Part of Developer Community.
-  
-<br/>
+## I am Learning
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+## Statistics
+<div> <a href="https://github.com/ItIsAmelia"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItIsAmelia&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ItIsAmelia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
 
 <div align="center">
   <h2><strong>See you Later Alligator!!!!</strong></h2>
